@@ -7,6 +7,7 @@ public class ArrayAdapter{
 	
 	ArrayAdapter(){
 		objarr = new Object[objinit];
+		
 	}
 	
 	public interface ListInt extends ParkStatg{
